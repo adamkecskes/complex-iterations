@@ -1,4 +1,4 @@
-import { add, multiply, pow, complex } from 'mathjs';
+import { add, multiply, complex, pow } from 'mathjs';
 import { Complex } from 'mathjs';
 
 type ValueOf<T> = T[keyof T];
