@@ -1,14 +1,12 @@
 # Complex Iterations
 
-Three algorithms to iterate 
-
 ## Install
 ```bash
 $ yarn add complex-iterations
 ```
 
 ## Demo
-You can see the iterations of these algorithms [here](https://circal.hu).
+You can see the iterations in action [here](https://circal.hu).
 
 ### MA algorithm (the classic Mandelbrot algorithm)
 <img src="https://render.githubusercontent.com/render/math?math=Z_n = {Z_{n-1}^{EXP}} %2B C">
