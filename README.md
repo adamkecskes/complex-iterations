@@ -1,5 +1,7 @@
 # Complex Iterations
 
+Collection of algorithms to iterate on complex numbers.
+
 ## Install
 ```bash
 $ yarn add complex-iterations
